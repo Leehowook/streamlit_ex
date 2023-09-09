@@ -17,9 +17,6 @@ with tabs[0]:
 # 두 번째 탭에 내용 추가
 with tabs[1]:
     st.header('코드')
-    st.code("
-    
-            ")
     st.write('이것은 탭 2의 내용입니다.')
  
 # 세 번째 탭에 내용 추가
